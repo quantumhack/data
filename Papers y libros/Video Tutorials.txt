@@ -1,0 +1,8 @@
+What Can We Expect from Quantum Machine Learning? - Dr. Peter Wittek:
+https://www.youtube.com/watch?v=EKWGLERVLuc
+
+Bayesian Deep Learning on a Quantum Computer:
+https://www.youtube.com/watch?v=7CKqbIoxYGA
+
+Maria Schuld - Machine Learning With Quantum Computers [IndabaX South Africa 2019]
+https://www.youtube.com/watch?v=uf_BRg5ovtg
